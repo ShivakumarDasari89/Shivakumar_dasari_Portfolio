@@ -237,18 +237,17 @@ const socialImgs = [
   {
     name: "insta",
     imgPath: "/images/insta.png",
+    url:'https://www.instagram.com/dshiva_79/'
   },
   {
     name: "fb",
     imgPath: "/images/fb.png",
-  },
-  {
-    name: "x",
-    imgPath: "/images/x.png",
+    url:''
   },
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
+    url:'https://www.linkedin.com/in/dasari-shivakumar-fullstack38998/'
   },
 ];
 
