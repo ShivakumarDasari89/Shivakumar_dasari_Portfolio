@@ -148,8 +148,8 @@ const techStackIcons = [
 const expCards = [
   {
   review: "Shivakumar Dasari’s contributions during his AI & Full-Stack Internship at Crypt0nest.io have been excellent. He demonstrated strong technical skills in building scalable applications and effectively collaborated with cross-functional teams.",
-  imgPath: "/images/Crypto-logo.png",  
-  logoPath: "/images/Crypto-logo.png",  
+  imgPath: "/images/Crypto-logo.png",
+  logoPath: "/images/Crypto-logo.png",
   title: "AI & Full-Stack Intern",
   date: "July 2025 - Present",
   responsibilities: [
