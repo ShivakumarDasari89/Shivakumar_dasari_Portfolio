@@ -30,9 +30,9 @@ const words = [
 
 const counterItems = [
   { value: 3, suffix: "+", label: "Years of Experience" },
-  { value: 35, suffix: "+", label: "Satisfied Clients" },
-  { value: 6, suffix: "+", label: "Completed Projects" },
-  { value: 90, suffix: "%", label: "Client Retention Rate" },
+  { value: 45, suffix: "+", label: "Satisfied Clients" },
+  { value: 15, suffix: "+", label: "Completed Projects" },
+  { value: 95, suffix: "%", label: "Client Retention Rate" },
 ];
 
 const logoIconsList = [
@@ -146,6 +146,18 @@ const techStackIcons = [
 ];
 
 const expCards = [
+  {
+  review: "Shivakumar Dasari’s contributions during his AI & Full-Stack Internship at Crypt0nest.io have been excellent. He demonstrated strong technical skills in building scalable applications and effectively collaborated with cross-functional teams.",
+  imgPath: "/images/Crypto-logo.png",  
+  logoPath: "/images/Crypto-logo.png",  
+  title: "AI & Full-Stack Intern",
+  date: "July 2025 - Present",
+  responsibilities: [
+    "Develop scalable web applications using React.js, Next.js, TypeScript, and Node.js, integrating LLM APIs (ChatGPT, Manus AI) to enhance AI-driven features.",
+    "Collaborate in Agile sprints with cross-functional teams, leveraging GCP, Firebase, Slack, and Trello to streamline workflows.",
+    "Build responsive interfaces, improving user experience and ensuring cross-browser compatibility."
+  ],
+},
   {
     review: "Shivakumar Dasari brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
     imgPath: "/images/exp1.jpeg",
