@@ -158,6 +158,18 @@ const expCards = [
     "Build responsive interfaces, improving user experience and ensuring cross-browser compatibility."
   ],
 },
+{
+  review: "As a Teaching Assistant at the University of North Texas, Shivakumar Dasari supported students in understanding complex subject material, facilitated discussions, and contributed to faculty research projects with strong analytical and communication skills.",
+  imgPath: "/images/UNT.png",     // replace with actual UNT logo path if available
+  logoPath: "/images/UNT.png",    // replace with actual UNT logo path if available
+  title: "Teaching Assistant",
+  date: "January 2024 - May 2025",
+  responsibilities: [
+    "Supported students by answering questions, clarifying concepts, and facilitating discussions.",
+    "Assisted the professor with ongoing research projects, including data collection, literature reviews, and analysis.",
+    "Strengthened professional communication skills while deepening subject matter expertise."
+  ],
+},
   {
     review: "Shivakumar Dasari brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
     imgPath: "/images/exp1.jpeg",
